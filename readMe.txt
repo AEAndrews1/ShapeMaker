@@ -1,5 +1,5 @@
 '''
-
+-------You have to download the raw file to see my projects as they are too big to preview in GitHub--------
 Ashton Andrews, Anton Andrews
 SEIS 603-03
 Project Name: Shape Maker
